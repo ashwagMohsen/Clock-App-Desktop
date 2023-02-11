@@ -1,0 +1,16 @@
+D:\مستوى ثالث\winform project\clock project\clock project\bin\Debug\netcoreapp3.1\clock project.exe
+D:\مستوى ثالث\winform project\clock project\clock project\bin\Debug\netcoreapp3.1\clock project.deps.json
+D:\مستوى ثالث\winform project\clock project\clock project\bin\Debug\netcoreapp3.1\clock project.runtimeconfig.json
+D:\مستوى ثالث\winform project\clock project\clock project\bin\Debug\netcoreapp3.1\clock project.runtimeconfig.dev.json
+D:\مستوى ثالث\winform project\clock project\clock project\bin\Debug\netcoreapp3.1\clock project.dll
+D:\مستوى ثالث\winform project\clock project\clock project\bin\Debug\netcoreapp3.1\clock project.pdb
+D:\مستوى ثالث\winform project\clock project\clock project\obj\Debug\netcoreapp3.1\clock project.csprojAssemblyReference.cache
+D:\مستوى ثالث\winform project\clock project\clock project\obj\Debug\netcoreapp3.1\clock_project.Form1.resources
+D:\مستوى ثالث\winform project\clock project\clock project\obj\Debug\netcoreapp3.1\clock_project.Properties.Resources.resources
+D:\مستوى ثالث\winform project\clock project\clock project\obj\Debug\netcoreapp3.1\clock project.csproj.GenerateResource.cache
+D:\مستوى ثالث\winform project\clock project\clock project\obj\Debug\netcoreapp3.1\clock project.AssemblyInfoInputs.cache
+D:\مستوى ثالث\winform project\clock project\clock project\obj\Debug\netcoreapp3.1\clock project.AssemblyInfo.cs
+D:\مستوى ثالث\winform project\clock project\clock project\obj\Debug\netcoreapp3.1\clock project.csproj.CoreCompileInputs.cache
+D:\مستوى ثالث\winform project\clock project\clock project\obj\Debug\netcoreapp3.1\clock project.dll
+D:\مستوى ثالث\winform project\clock project\clock project\obj\Debug\netcoreapp3.1\clock project.pdb
+D:\مستوى ثالث\winform project\clock project\clock project\obj\Debug\netcoreapp3.1\clock project.genruntimeconfig.cache
